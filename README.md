@@ -1,5 +1,6 @@
 #   Oi gente😊
  Me chamo Maryana, estou no segundo ano do técnico em desenvolvimento de sistemas, tenho muito a aprender ainda, pois como diria Socrátes "Sábio é aquele que conhece os limites da própria ignorância".
+ ### Um pouquinho sobre mim
  - 💛Amante de dança
 - 💻Em potência uma ótima DEV
 - 🧚‍Estou aprendendo C#, JS, HTML5, CSS3, PHP...
