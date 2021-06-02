@@ -18,7 +18,6 @@
 <!--
 **Mary347124u/Mary347124u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Um pouquinho sobre mim
 
 
 -->
