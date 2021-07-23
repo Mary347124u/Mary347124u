@@ -11,7 +11,6 @@ I like astrology♐
 - 📍 From SP
 - systems development student 💻📚
 
-  <div style="display: inline_block"><br>
     <h3>Estou aprendendo</h3>
      <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Mary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
