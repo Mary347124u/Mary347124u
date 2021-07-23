@@ -1,9 +1,20 @@
-#   Olá mundo, me chamo Maryana😊
-  <div>
-  <a href="https://github.com/Mary347124u">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mary347124u&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mary347124u&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+# Hey guys 👩🏽
+
+My name is Maryana Batista de Sa
+
+I love dancing💃🏽
+
+I like astrology♐
+
+### "Sábio é aquele que conhece os limites da própria ignorância" Sócrates🧠
+
+- 📍 From SP
+- systems development student 💻📚
+
+Reach me out 👇🏼
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryana-sa-ab1863207/)](https://www.linkedin.com/in/maryana-sa-ab1863207/) 
+ 
   <div style="display: inline_block"><br>
     <h3>Estou aprendendo</h3>
      <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
