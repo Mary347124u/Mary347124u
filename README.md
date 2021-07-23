@@ -6,7 +6,7 @@ I love dancing💃🏽
 
 I like astrology♐
 
-### "Sábio é aquele que conhece os limites da própria ignorância" Sócrates🧠
+ "Sábio é aquele que conhece os limites da própria ignorância" Sócrates🧠
 
 - 📍 From SP
 - systems development student 💻📚
