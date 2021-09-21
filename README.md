@@ -13,8 +13,8 @@
 
   ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Mary347124u?tab=repositories)](https://github.com/Mary347124u?tab=repositories)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryana-sa-ab1863207/ )](https://www.linkedin.com/in/maryana-sa-ab1863207/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=pink&link=https://github.com/Mary347124u?tab=repositories)](https://github.com/Mary347124u?tab=repositories)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=pink&link=https://www.linkedin.com/in/maryana-sa-ab1863207/ )](https://www.linkedin.com/in/maryana-sa-ab1863207/)
 
 ## Languages and Tools:
 [![Mary347124u GitHub stats](https://github-readme-stats.vercel.app/api?username=Mary347124u)](https://github.com/Mary347124u/github-readme-stats)
