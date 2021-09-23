@@ -15,8 +15,9 @@
 
   ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=pink&link=https://github.com/Mary347124u?tab=repositories)](https://github.com/Mary347124u?tab=repositories)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryana-sa-ab1863207/ )](https://www.linkedin.com/in/maryana-sa-ab1863207/)
+<a href="https://www.instagram.com/marybsa2216/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto: marybsa135@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/maryana-sa-ab1863207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Languages and Tools:
 [![Mary347124u GitHub stats](https://github-readme-stats.vercel.app/api?username=Mary347124u)](https://github.com/Mary347124u/github-readme-stats)
